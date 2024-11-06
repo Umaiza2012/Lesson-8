@@ -1,0 +1,10 @@
+/*selector (css syntax)*/
+body
+{
+/*background-color: lightpink;*/
+background-image: url("bgpic.avif");
+background-repeat:no-repeat;
+background-position: center;
+background-size: cover;
+background-attachment: fixed;
+}

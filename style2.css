@@ -1,0 +1,7 @@
+/*selector (css syntax)*/
+body
+{
+/*background:linear-gradient(to bottom left,pink,rgb(223, 52, 223),rgb(226, 170, 223),)*/
+background:radial-gradient(circle,lightcoral,lightseagreen,orchid);
+
+}
